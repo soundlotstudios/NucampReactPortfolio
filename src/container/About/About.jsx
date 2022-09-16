@@ -5,7 +5,7 @@ import "./About.scss";
 import { urlFor, client } from "../../client";
 
 // const abouts = [
-//   {
+//   { 
 //     title: "Graphic Design",
 //     description: "I am a good web developer.",
 //     imgUrl: images.about01,
